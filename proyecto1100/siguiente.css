@@ -1,0 +1,38 @@
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    background: pink
+}
+p3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+h4 {
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h5{
+    background-color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+    
+    h6{
+        background-color: yellow;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: inherit;
+        font-size: larger;
+        font-variant-numeric: ordinal;
+        
+    }
+   
+   
+
+       
+    
+
+   
+    
+
+    
+     
+   
